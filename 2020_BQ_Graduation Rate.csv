@@ -1,0 +1,500 @@
+﻿ReportCardYear,DistrictNm,SchoolNm,SCHOOLID,SCHOOLTYPECD,GRADRATE20,GRADRATE19,GRADRATE18,GRADRATE17
+2020,Abbeville County School Dist,Abbeville High School,160001,H,83.5,85,87.3,88.1
+2020,Abbeville County School Dist,Dixie High School,160003,H,88,81.7,78.3,87.2
+2020,Abbeville County School Dist,Abbeville County School Dist,160999,D,85.6,83.5,83.9,87.8
+2020,"Aiken County Public School
+District",Silver Bluff High,201001,H,88.2,90.6,87.5,86.7
+2020,"Aiken County Public School
+District",Aiken High School,201002,H,92.8,93.3,90.1,93.1
+2020,"Aiken County Public School
+District",South Aiken High School,201003,H,89.3,92.3,88.4,89.8
+2020,"Aiken County Public School
+District",Midland Valley High School,201006,H,89.5,88.4,88.8,89.5
+2020,"Aiken County Public School
+District",North Augusta High School,201012,H,92.2,90.8,89.3,89.5
+2020,"Aiken County Public School
+District",Wagener-Sally High,201015,H,96.4,92.5,85.7,89.2
+2020,"Aiken County Public School
+District",Ridge Spring-Monetta High School,201060,H,98.1,96.2,89.1,89.8
+2020,"Aiken County Public School
+District",Aiken Scholars Academy,201061,H,*,*,*,*
+2020,"Aiken County Public School
+District",Aiken County Public School District,201999,D,91.2,91.3,88.9,90
+2020,Allendale County Schools,Allendale-Fairfax High,301001,H,87.3,76.5,74.3,83.5
+2020,Allendale County Schools,Allendale County Schools,301999,D,87.3,76.5,74.3,83.5
+2020,Anderson School District One,Palmetto High,401001,H,87,84.1,85.3,86.1
+2020,Anderson School District One,Powdersville High School,401002,H,94.6,96.7,97,93.9
+2020,Anderson School District One,Wren High School,401003,H,93.2,94.9,89.9,95.7
+2020,Anderson School District One,Anderson School District One,401999,D,91.6,91.9,90.2,91.9
+2020,Anderson 2,Belton-Honea Path High School,402012,H,91.8,86.8,84.3,89.3
+2020,Anderson 2,Anderson 2,402999,D,91.8,86.8,84.3,89.3
+2020,Anderson School District Three,Crescent High School,403022,H,91,92.9,92.5,89.7
+2020,Anderson School District Three,Anderson School District Three,403999,D,90.4,92.9,91.9,89.2
+2020,Anderson 4,Pendleton High,404027,H,85,84.5,85,86.1
+2020,Anderson 4,Anderson 4,404999,D,85,84.5,85,86.1
+2020,Anderson School District Five,T. L. Hanna High School,405038,H,88.1,87.1,85.9,88
+2020,Anderson School District Five,Westside High School,405048,H,77.2,80.2,78.9,79.5
+2020,Anderson School District Five,Anderson Five Charter School,405601,H,92.3,82.1,83.3,82.6
+2020,Anderson School District Five,Anderson School District Five,405999,D,82.8,83.5,82.6,83.4
+2020,Bamberg School District 1,Bamberg-Ehrhardt High School,501001,H,89.2,87.7,76.9,88.6
+2020,Bamberg School District 1,Bamberg School District 1,501999,D,89.2,87.7,76.9,88.6
+2020,Bamberg 2,Denmark Olar High,502007,H,89.2,74.6,83.7,69.1
+2020,Bamberg 2,Bamberg 2,502999,D,89.2,74.6,83.7,69.1
+2020,Barnwell 19,Blackville Hilda High School,619001,H,88.7,89.4,85.7,90.4
+2020,Barnwell 19,Barnwell 19,619999,D,88.7,89.4,85.7,90.4
+2020,Williston School District 29,Williston-Elko High School,629006,H,81.7,87.3,91.4,88.3
+2020,Williston School District 29,Williston School District 29,629999,D,81.7,87.3,91.4,88.3
+2020,Barnwell School District 45,Barnwell High School,645009,H,84.4,87.6,83.4,83.7
+2020,Barnwell School District 45,Barnwell School District 45,645999,D,83.4,87.1,80.1,83.7
+2020,Beaufort County Schools,Beaufort High School,701002,H,81.1,84.4,81.7,87.5
+2020,Beaufort County Schools,Hilton Head Island High School,701003,H,87.3,87.8,91.7,90.2
+2020,Beaufort County Schools,Battery Creek High School,701004,H,84.2,83.9,76.6,77.4
+2020,Beaufort County Schools,Bluffton High School,701030,H,82.5,85.2,87.2,82.7
+2020,Beaufort County Schools,"Whale Branch Early College High
+School",701036,H,90.6,90,88.8,83.9
+2020,Beaufort County Schools,May River High School,701039,H,91.9,94.1,97.3,93
+2020,Beaufort County Schools,Beaufort County Schools,701999,D,85.7,86.9,86,84.1
+2020,Berkeley County School District,Stratford High School,801001,H,79.8,79.7,84.8,81.2
+2020,Berkeley County School District,Berkeley High School,801002,H,82.7,80.2,84.4,83.5
+2020,Berkeley County School District,Cross High School,801006,H,76,68.5,76.9,82.8
+2020,Berkeley County School District,Goose Creek High,801007,H,81.8,80.2,76.4,75
+2020,Berkeley County School District,Hanahan High School,801008,H,88,85.1,86.6,90.4
+2020,Berkeley County School District,Timberland High School,801043,H,84,81.5,79.7,76.6
+2020,Berkeley County School District,Cane Bay High School,801049,H,89.7,89.2,89.3,92.3
+2020,Berkeley County School District,Berkeley Middle College,801051,H,100,100,100,100
+2020,Berkeley County School District,Philip Simmons High School,801056,H,88.6,0,*,*
+2020,Berkeley County School District,Berkeley County School District,801999,D,84.4,82.6,83.8,83.5
+2020,Calhoun County Schools,Calhoun County High School,901001,H,86.3,90.6,89.3,90.1
+2020,Calhoun County Schools,Calhoun County Schools,901999,D,86.3,90.6,89.3,90.1
+2020,"Charleston County School
+District",Baptist Hill Middle High School,1001001,H,79.6,74,80.6,82.1
+2020,"Charleston County School
+District",North Charleston High,1001002,H,66,76.6,67,59.6
+2020,"Charleston County School
+District",Garrett Academy Of Technology,1001008,H,93.9,90.4,87.4,83.9
+2020,"Charleston County School
+District",Burke High School,1001010,H,81.7,72,80,78
+2020,"Charleston County School
+District",Wando High School,1001014,H,93.1,93.3,91.4,92.1
+2020,"Charleston County School
+District",Military Magnet Academy,1001018,H,93.9,95,84.8,87.5
+2020,"Charleston County School
+District",St. John's High School,1001020,H,72.5,77.8,65.9,79.2
+2020,"Charleston County School
+District",R.B. Stall High School,1001022,H,75.1,63.2,64,63.8
+2020,"Charleston County School
+District",Charleston County School Of The Arts,1001098,H,97.9,97.3,98.7,99.3
+2020,"Charleston County School
+District",Academic Magnet High School,1001099,H,100,100,100,100
+2020,"Charleston County School
+District",West Ashley High School,1001104,H,84.1,78.2,77,78.9
+2020,"Charleston County School
+District",Greg Mathis Charter High School,1001615,H,25,25.6,33.3,17
+2020,"Charleston County School
+District",James Island Charter High,1001616,H,93.8,91.2,90.9,92.5
+2020,"Charleston County School
+District","Charleston Charter School For Math
+And Science, Inc.",1001620,H,96.7,94.1,96.8,94.5
+2020,"Charleston County School
+District",Pace Charter School,1001628,H,0,0,0,0
+2020,"Charleston County School
+District",Allegro Charter School Of Music,1001630,H,91.7,93.8,*,-1
+2020,"Charleston County School
+District",Charleston County School District,1001999,D,86.6,84.2,83.5,84.2
+2020,Cherokee County,Blacksburg High,1101001,H,83.1,84.2,81.6,89.1
+2020,Cherokee County,Gaffney High School,1101003,H,82.1,82.7,83.4,82.8
+2020,Cherokee County,Cherokee County,1101999,D,82.3,82.6,82.5,84.1
+2020,Chester County School District,Chester High School,1201002,H,80.3,71.5,80.3,83.4
+2020,Chester County School District,Great Falls High School,1201005,H,76.7,86.8,87.5,77.8
+2020,Chester County School District,Lewisville High School,1201006,H,90.9,93.8,91.1,95.1
+2020,Chester County School District,Chester County School District,1201999,D,82.8,79,83.8,85.8
+2020,"Chesterfield County School
+District",Cheraw High School,1301001,H,89.2,84.7,85.3,88.5
+2020,"Chesterfield County School
+District",Chesterfield High School,1301002,H,88.5,85.1,85.7,95.5
+2020,"Chesterfield County School
+District",Mcbee High School,1301006,H,91.1,86.9,83.3,88.4
+2020,"Chesterfield County School
+District",Central High School,1301007,H,82.6,77.3,77.6,84.4
+2020,"Chesterfield County School
+District",Chesterfield County School District,1301999,D,87.2,83,82.9,90.2
+2020,Clarendon School District One,Scott's Branch Middle High School,1401001,H,86.3,85.5,77.4,82.4
+2020,Clarendon School District One,Clarendon School District One,1401999,D,86.3,85.5,77.4,82.4
+2020,Clarendon School District Two,Manning High School,1402007,H,84.5,84.2,79.9,79.4
+2020,Clarendon School District Two,Phoenix Charter High School,1402610,H,61.5,50,50,27.3
+2020,Clarendon School District Two,Clarendon School District Two,1402999,D,84.5,84.2,79.9,79
+2020,Clarendon 3,East Clarendon Middle / High School,1403016,H,93,83.6,88.4,91.4
+2020,Clarendon 3,Clarendon 3,1403999,D,93,83.6,88.4,91.4
+2020,Colleton County,Colleton County High School,1501005,H,78.1,78.4,85,86.5
+2020,Colleton County,Colleton County,1501999,D,78.1,78.4,85,86.5
+2020,"Darlington County School
+District",Hartsville High School,1601005,H,91.5,91.6,90.2,93.4
+2020,"Darlington County School
+District",Lamar High School,1601006,H,98.4,100,100,100
+2020,"Darlington County School
+District",Darlington High School,1601030,H,83.1,87.1,80,77.4
+2020,"Darlington County School
+District","Mayo High School For Math, Science &
+Technology",1601033,H,100,100,98.7,100
+2020,"Darlington County School
+District",Darlington County School District,1601999,D,89.8,91.5,87.5,88
+2020,Dillon District Three,Latta High School,1703019,H,83.2,82.8,88.6,83.5
+2020,Dillon District Three,Dillon District Three,1703999,D,83.2,81.5,88,83.5
+2020,Dillon School District Four,Lake View High School,1704002,H,86.7,88.3,86,94.3
+2020,Dillon School District Four,Dillon High School,1704005,H,84.2,83.6,86.2,88.7
+2020,Dillon School District Four,Dillon School District Four,1704999,D,84.8,84.8,86.2,89.2
+2020,Dorchester School District Two,Summerville High School,1802006,H,91,89.8,86.6,84
+2020,Dorchester School District Two,Fort Dorchester High School,1802020,H,93.5,91.8,88.6,85.8
+2020,Dorchester School District Two,Ashley Ridge High School,1802027,H,92,91,92.6,90.2
+2020,Dorchester School District Two,Dorchester School District Two,1802999,D,91.4,90.3,88.7,86
+2020,Dorchester District 4,Woodland High School,1804019,H,91.7,92.9,89.9,87.4
+2020,Dorchester District 4,Dorchester District 4,1804999,D,91.7,92.9,89.9,87.4
+2020,"Edgefield County School
+District","Strom Thurmond High School	",1901002,H,84.9,86.5,85.6,84.8
+2020,"Edgefield County School
+District",Edgefield County School District,1901999,D,84.9,86.5,85.6,84.8
+2020,Fairfield County School District,Fairfield Central High School,2001013,H,88.4,81,86.2,91
+2020,Fairfield County School District,Fairfield County School District,2001999,D,88,80.6,85.8,91
+2020,Florence One Schools,South Florence High School,2101004,H,80.2,80.6,80.3,80.9
+2020,Florence One Schools,Wilson High School,2101006,H,86.9,85.5,79.9,83.4
+2020,Florence One Schools,West Florence Hs,2101014,H,91.6,85.1,85.1,88.7
+2020,Florence One Schools,Florence One Schools,2101999,D,86.1,83.7,82.1,84.5
+2020,"Florence County School District
+2",Hannah-Pamplico High School,2102024,H,78.9,76.3,75,87.8
+2020,"Florence County School District
+2",Florence County School District 2,2102999,D,78.9,76.3,75,87.8
+2020,Florence School District Three,Lake City High School,2103029,H,72.1,72.7,74.6,86.5
+2020,Florence School District Three,"J Paul Truluck Creative Arts And
+Science Magnet School",2103054,H,*,*,*,*
+2020,Florence School District Three,Florence School District Three,2103999,D,71.8,72.4,74.6,86.5
+2020,"Florence County School District
+Four",Timmonsville High School,2104041,H,82.5,83.3,85.2,89.1
+2020,"Florence County School District
+Four",Florence County School District Four,2104999,D,82.5,83.3,85.2,89.1
+2020,"Florence County School District
+Five",Johnsonville High School,2105045,H,86,77.9,89.1,89.3
+2020,"Florence County School District
+Five",Florence County School District Five,2105999,D,83.1,77.9,89.1,87.6
+2020,"Georgetown County School
+District",Andrews High School,2201001,H,86,90.1,87.8,98.4
+2020,"Georgetown County School
+District",Georgetown High,2201004,H,84.3,80.4,83.7,87
+2020,"Georgetown County School
+District",Waccamaw High School,2201025,H,93.7,90.7,87.6,93
+2020,"Georgetown County School
+District",Carvers Bay High School,2201026,H,84.8,82.3,87.3,83.2
+2020,"Georgetown County School
+District",Georgetown County School District,2201999,D,87.7,85.8,86.2,90.3
+2020,"The School District Of
+Greenville County",Berea High School,2301002,H,72.6,77.3,70.8,73
+2020,"The School District Of
+Greenville County",Blue Ridge High School,2301003,H,86.5,86.3,83.4,85.8
+2020,"The School District Of
+Greenville County",Carolina High School And Academy,2301005,H,79.1,74.8,73.9,84
+2020,"The School District Of
+Greenville County",Eastside High School,2301006,H,89.3,87.6,88.7,93.4
+2020,"The School District Of
+Greenville County","Greenville Senior High Academy Of
+Law, Finance And Business",2301008,H,89.2,83.4,82.5,89.7
+2020,"The School District Of
+Greenville County",Greer High School,2301009,H,81.2,80.6,82.3,86.5
+2020,"The School District Of
+Greenville County",Wade Hampton High School,2301010,H,92.4,91.7,89.7,97
+2020,"The School District Of
+Greenville County",Hillcrest High School,2301012,H,86.4,85.3,86.5,87.4
+2020,"The School District Of
+Greenville County",J. L. Mann High School,2301013,H,86.1,87,85.5,90.6
+2020,"The School District Of
+Greenville County",Mauldin High School,2301014,H,92.7,92.9,92,94.7
+2020,"The School District Of
+Greenville County",Riverside High School,2301017,H,93,90.5,91.5,91.6
+2020,"The School District Of
+Greenville County",Southside High School,2301018,H,71.1,75.7,74,74.7
+2020,"The School District Of
+Greenville County",Travelers Rest High School,2301020,H,83.1,80.5,82.4,86.7
+2020,"The School District Of
+Greenville County",Woodmont High School,2301023,H,92.5,87.9,80.1,83.4
+2020,"The School District Of
+Greenville County",Washington Center School,2301902,H,0,0,0,0
+2020,"The School District Of
+Greenville County",The School District Of Greenville County,2301999,D,86.1,85.1,83.6,87.3
+2020,Greenwood School District 50,Emerald High School,2450001,H,82.7,81.9,75.4,81.9
+2020,Greenwood School District 50,Greenwood High School,2450002,H,84.5,85.6,85.9,84.8
+2020,Greenwood School District 50,Greenwood School District 50,2450999,D,83.9,84,82.1,83.7
+2020,Greenwood School District 51,Ware Shoals High School,2451020,H,76.6,81.3,79.2,81
+2020,Greenwood School District 51,Greenwood School District 51,2451999,D,76.6,81.3,79.2,81
+2020,Greenwood School District 52,Ninety Six High,2452025,H,87.8,87.3,91.5,84.4
+2020,Greenwood School District 52,Greenwood School District 52,2452999,D,87.8,87.3,90.8,83.1
+2020,Hampton 1,Wade Hampton High School,2501001,H,83.3,87.6,84.6,86.9
+2020,Hampton 1,Hampton 1,2501999,D,83.3,87.1,84.6,85.9
+2020,Hampton 2,Estill High Scholl,2502011,H,88.7,88.3,87.9,84.4
+2020,Hampton 2,Hampton 2,2502999,D,88.7,88.3,87.9,84.4
+2020,Horry,Aynor High,2601001,H,89.8,85.4,89.5,82.8
+2020,Horry,North Myrtle Beach High,2601002,H,80.4,84.1,85.6,87.5
+2020,Horry,Conway High,2601004,H,85.3,74.8,78.6,72.6
+2020,Horry,Green Sea Floyds High,2601006,H,87.1,86.7,81.6,76.2
+2020,Horry,Loris High,2601008,H,80,81.3,75.6,84
+2020,Horry,Myrtle Beach High School,2601010,H,82.5,82.4,76.1,75.7
+2020,Horry,Socastee High,2601011,H,83.4,84.5,81.7,81.1
+2020,Horry,Carolina Forest High,2601052,H,81.1,86.6,83.2,79.9
+2020,Horry,St. James High,2601058,H,85.3,84.2,87.6,81.3
+2020,Horry,Hcs Early College High,2601064,H,98.9,98.9,99,100
+2020,Horry,"Palmetto Academy Of Learning
+Motorsports (Palm)",2601604,H,63.4,63.5,59.1,43.9
+2020,Horry,Horry,2601999,D,83.5,83.4,82.4,80.4
+2020,Jasper County School District,Ridgeland Hardeeville High School,2701013,H,82.8,81.6,71.8,73.6
+2020,Jasper County School District,Jasper County School District,2701999,D,82.8,81.6,71.8,73.6
+2020,Kershaw County School District,North Central High School,2801003,H,86.6,79.4,79.8,81
+2020,Kershaw County School District,Camden High School,2801005,H,85.4,86.4,87.3,88.5
+2020,Kershaw County School District,Lugoff Elgin High School,2801007,H,87.2,87.9,86.9,84
+2020,Kershaw County School District,Kershaw County School District,2801999,D,86.3,86.4,86.1,84.6
+2020,Lancaster,Buford High School,2901002,H,87.8,83.6,86.1,85.1
+2020,Lancaster,Indian Land High,2901006,H,90.9,92.2,88.9,87.7
+2020,Lancaster,Andrew Jackson High School,2901007,H,91.2,88.6,87.3,83.5
+2020,Lancaster,Lancaster High School,2901008,H,77,74.3,76.9,78.5
+2020,Lancaster,Lancaster,2901999,D,85.5,83.3,83.3,83
+2020,Laurens District 55,Laurens District 55 High School,3055004,H,79,80.4,79.6,81.1
+2020,Laurens District 55,Laurens District 55,3055999,D,79,80.4,79.6,81.1
+2020,"Laurens County School District
+56",Clinton High School,3056016,H,78.2,85.1,78.2,80.9
+2020,"Laurens County School District
+56",Laurens County School District 56,3056999,D,78.2,85.1,78.2,80.9
+2020,Lee County School District,Lee Central High School,3101013,H,89.6,86,91.2,84.7
+2020,Lee County School District,Lee County School District,3101999,D,89.6,86,91.2,84.7
+2020,"Lexington County School
+District One",Gilbert High School,3201001,H,86.5,86.8,89.4,90
+2020,"Lexington County School
+District One",Lexington High School,3201003,H,93.2,90.9,92.1,91.9
+2020,"Lexington County School
+District One",Pelion High School,3201004,H,87.7,83.9,83.4,85.9
+2020,"Lexington County School
+District One",White Knoll High School,3201057,H,87.9,86.6,86.4,86.4
+2020,"Lexington County School
+District One",River Bluff High School,3201069,H,94.5,94.4,92.5,94
+2020,"Lexington County School
+District One",Lexington County School District One,3201999,D,90.7,89.6,89.5,90.2
+2020,Lexington School District Two,Airport High School,3202009,H,80.2,76.8,77.5,87.8
+2020,Lexington School District Two,Brookland-Cayce High School,3202011,H,81.8,75.5,77.9,86.9
+2020,Lexington School District Two,Lexington School District Two,3202999,D,80.9,76.3,77.7,87.4
+2020,"Lexington County School
+District Three",Batesburg-Leesville High School,3203026,H,89.1,83.6,83,89.8
+2020,"Lexington County School
+District Three",Lexington County School District Three,3203999,D,89.1,83.6,83,89.8
+2020,Lexington School District Four,Swansea High School,3204034,H,82.6,79.9,75.8,72
+2020,Lexington School District Four,Lexington School District Four,3204999,D,82.6,79.9,75.8,72
+2020,"School District 5 Of Lexington
+And Richland Counti",Chapin High School,3205038,H,95.7,93.9,92.8,92.3
+2020,"School District 5 Of Lexington
+And Richland Counti","Irmo High School International School
+For The Arts",3205039,H,82.4,84.7,87,86.8
+2020,"School District 5 Of Lexington
+And Richland Counti",Dutch Fork High School,3205051,H,89.1,84.2,89.2,87.6
+2020,"School District 5 Of Lexington
+And Richland Counti",Spring Hill High School,3205057,H,98.1,93.9,95.8,95.4
+2020,"School District 5 Of Lexington
+And Richland Counti","School District 5 Of Lexington And
+Richland Counti",3205999,D,90.7,88.4,90.6,90.3
+2020,"Mccormick County School
+District",Mccormick High School,3301001,H,77.8,78.2,90.6,80.9
+2020,"Mccormick County School
+District",Mccormick County School District,3301999,D,77.8,78.2,90.6,80.9
+2020,Marion County School District,Marion High School,3410002,H,88.8,74,71,82.6
+2020,Marion County School District,Mullins High School,3410008,H,91.6,83.3,80.4,90.2
+2020,Marion County School District,Marion County School District,3410999,D,88.7,78.1,75.5,85.6
+2020,Marlboro County School District,Marlboro County High School,3501026,H,77.7,78.8,80.4,83.5
+2020,Marlboro County School District,Marlboro County School District,3501999,D,77.7,78.8,80.4,83.5
+2020,Newberry,Newberry High,3601001,H,80.5,84.2,85.9,80.3
+2020,Newberry,Mid-Carolina High School,3601002,H,87.3,87.9,89.6,88.8
+2020,Newberry,Whitmire Community School,3601004,H,92,87.8,93,81.1
+2020,Newberry,Newberry,3601999,D,84.2,86.3,88.1,84
+2020,"School District Of Oconee
+County",Seneca Senior High School,3701005,H,85.9,84,83.4,86.7
+2020,"School District Of Oconee
+County",Walhalla High,3701007,H,91.5,93.6,86.6,88.1
+2020,"School District Of Oconee
+County",West-Oak High School,3701008,H,79.8,80.5,82.1,82
+2020,"School District Of Oconee
+County",School District Of Oconee County,3701999,D,86.2,86.4,84.1,85
+2020,"Orangeburg County School
+District",Bethune-Bowman Middle/High,3809010,H,89.5,98.1,92.9,84.8
+2020,"Orangeburg County School
+District",Edisto High School,3809024,H,84.6,76.4,78.2,75.3
+2020,"Orangeburg County School
+District",Orangeburg Wilkinson High School,3809028,H,73,77.5,81.7,77
+2020,"Orangeburg County School
+District",North Middle High School,3809042,H,78.7,96.8,95.3,90.2
+2020,"Orangeburg County School
+District",Lake Marion High School,3809048,H,74.1,80.4,75.4,82
+2020,"Orangeburg County School
+District",Branchville High School,3809049,H,91.2,90.7,85.4,96.4
+2020,"Orangeburg County School
+District",Hunter- Kinard- Tyler High School,3809054,H,86,85.7,86.5,81.6
+2020,"Orangeburg County School
+District","Ocsd High School For Health
+Professions",3809601,H,100,99,98.9,100
+2020,"Orangeburg County School
+District",Orangeburg County School District,3809999,D,79.1,80.4,75.4,82
+2020,"School District Of Pickens
+County",D. W. Daniel High School,3901003,H,92,89.5,90.9,91.5
+2020,"School District Of Pickens
+County",Easley High School,3901005,H,88.9,86.5,86.2,83.9
+2020,"School District Of Pickens
+County",Liberty High School,3901006,H,86.4,80.1,80.7,80.3
+2020,"School District Of Pickens
+County",Pickens High School,3901008,H,83.2,82.6,78.2,80.4
+2020,"School District Of Pickens
+County",School District Of Pickens County,3901999,D,87.7,85,84.4,84
+2020,Richland School District One,Columbia High,4001002,H,76.6,77.1,71.9,79.3
+2020,Richland School District One,Dreher High,4001004,H,89.5,86.8,87.4,90.2
+2020,Richland School District One,Eau Claire High,4001005,H,73.8,74,74.3,71.6
+2020,Richland School District One,A. C. Flora High,4001007,H,90.6,92.3,85.9,87.3
+2020,Richland School District One,C. A. Johnson High,4001011,H,70.7,62.6,68.4,72
+2020,Richland School District One,W.J. Keenan High,4001012,H,80.2,77.8,70.8,69.6
+2020,Richland School District One,Lower Richland High,4001013,H,81.8,81.3,75.1,76.8
+2020,Richland School District One,Richland One Charter Middle College,4001601,H,100,92.1,96.8,100
+2020,Richland School District One,Richland School District One,4001999,D,82.9,82.2,78.1,78.9
+2020,Richland 2,Spring Valley High,4002069,H,89.7,91.2,86.3,87.5
+2020,Richland 2,Richland Northeast High,4002079,H,82,81.9,80,86.9
+2020,Richland 2,Ridge View High,4002084,H,89.4,87.1,87.7,94.7
+2020,Richland 2,Blythewood High,4002092,H,93.9,93.8,94,97.3
+2020,Richland 2,Westwood High,4002100,H,87.1,86.8,85.6,80.1
+2020,Richland 2,Richland Two Charter High,4002600,H,59.6,29.8,31.1,33.3
+2020,Richland 2,Richland 2,4002999,D,88.8,88.9,87.2,89.6
+2020,Saluda,Saluda High,4101003,H,81,83.3,77.3,73.4
+2020,Saluda,Saluda,4101999,D,81,83.3,77.3,73.4
+2020,Spartanburg School District 1,Chapman High School,4201002,H,96.2,93.6,90.9,93
+2020,Spartanburg School District 1,Landrum High School,4201003,H,91.8,87.6,90.2,95.2
+2020,Spartanburg School District 1,Spartanburg School District 1,4201999,D,94.1,91.1,90.6,93.9
+2020,"Spartanburg School District
+Two",Boiling Springs High School,4202012,H,90,91.8,86.9,90.4
+2020,"Spartanburg School District
+Two",Chesnee High School,4202013,H,81.4,85.5,86.2,84.8
+2020,"Spartanburg School District
+Two",Spartanburg School District Two,4202999,D,87.9,90.5,86.7,89
+2020,"Spartanburg School District
+Three",Broome High School,4203026,H,85.5,84.4,84.1,78.4
+2020,"Spartanburg School District
+Three",Spartanburg School District Three,4203999,D,85.5,84.4,84.1,78.4
+2020,"Spartanburg School District
+Four",Woodruff High School,4204036,H,85.6,84.3,82.9,80
+2020,"Spartanburg School District
+Four",Spartanburg School District Four,4204999,D,85.6,84.3,82.9,80
+2020,"Spartanburg School District
+Five",James F. Byrnes High,4205043,H,88.1,89.3,86.9,87.4
+2020,"Spartanburg School District
+Five",Spartanburg School District Five,4205999,D,88.1,89.3,86.9,87.2
+2020,"Spartanburg County School
+District Six",Paul M. Dorman High School,4206053,H,87.3,86.9,88.9,88.6
+2020,"Spartanburg County School
+District Six",Spartanburg County School District Six,4206999,D,87.3,86.9,88.7,88.6
+2020,"Spartanburg School District
+Seven",Spartanburg High School,4207073,H,85.7,81.6,86.6,88.6
+2020,"Spartanburg School District
+Seven",Spartanburg School District Seven,4207999,D,85.7,81.6,86.3,88.6
+2020,Sumter Schools,Sumter High,4301024,H,82.1,82.9,79.6,86.9
+2020,Sumter Schools,Crestwood High School,4301042,H,81.5,87.5,83.3,81.5
+2020,Sumter Schools,Lakewood High,4301043,H,78.6,80.8,80.5,81.7
+2020,Sumter Schools,Sumter Schools,4301999,D,81.1,83.7,80.7,84.1
+2020,Union County Schools,Union County High School,4401005,H,76.7,74.8,76,75.6
+2020,Union County Schools,Union County Schools,4401999,D,76.7,74.8,76,75.6
+2020,Williamsburg,Hemingway High,4501006,H,91.9,77.5,76,92
+2020,Williamsburg,Kingstree High School,4501008,H,75.2,59.8,80.6,80.3
+2020,Williamsburg,Williamsburg County,4501012,H,94,90.8,84.7,89.9
+2020,Williamsburg,Williamsburg,4501999,D,84.3,73.1,80.6,83.8
+2020,York One,York Comprehensive High School,4601003,H,83.7,81.9,85,90.6
+2020,York One,York One,4601999,D,83.7,81.9,85,90.4
+2020,Clover School District (York 2),Clover High School,4602010,H,92.2,87.7,91.1,90.7
+2020,Clover School District (York 2),Clover School District (York 2),4602999,D,92.2,87.7,91.1,90.7
+2020,Rock Hill School District 3,Northwestern High School,4603016,H,87.1,84.1,87.9,88.7
+2020,Rock Hill School District 3,Rock Hill High,4603017,H,82.2,78.1,81.4,80.6
+2020,Rock Hill School District 3,South Pointe High School,4603041,H,86.8,86.7,79.6,84
+2020,Rock Hill School District 3,Rock Hill School District 3,4603999,D,85.1,82.4,83.2,84.5
+2020,Fort Mill School District - York 4,Fort Mill High School,4604036,H,97,96.7,94.5,95.9
+2020,Fort Mill School District - York 4,Nation Ford High School,4604054,H,94.5,94.1,94.2,92.2
+2020,Fort Mill School District - York 4,Catawba Ridge High School,4604061,H,0,*,*,*
+2020,Fort Mill School District - York 4,Fort Mill School District - York 4,4604999,D,95.7,95.4,94.4,94.1
+2020,"South Carolina Public Charter
+School District",South Carolina Connections Academy,4701003,H,70.9,72.9,60.3,61.4
+2020,"South Carolina Public Charter
+School District",Palmetto Scholars Academy,4701010,H,100,100,100,100
+2020,"South Carolina Public Charter
+School District",York Preparatory Academy,4701011,H,99.2,97.5,90.5,92.7
+2020,"South Carolina Public Charter
+School District",Sc Whitmore School,4701014,H,54.3,52.6,40.6,35.6
+2020,"South Carolina Public Charter
+School District",Fox Creek High School,4701020,H,91.6,84.7,90.1,94.5
+2020,"South Carolina Public Charter
+School District",Midlands Middle College,4701021,H,65.6,53.2,81.8,82.9
+2020,"South Carolina Public Charter
+School District",Lowcountry Leadership Charter School,4701023,H,90.9,90,90.6,93.5
+2020,"South Carolina Public Charter
+School District",Green Charter School,4701026,H,100,*,*,-1
+2020,"South Carolina Public Charter
+School District",Bridges Preparatory School,4701027,H,97.3,*,*,-1
+2020,"South Carolina Public Charter
+School District","Pee Dee Math, Science And Technology
+Academy",4701029,H,*,*,*,*
+2020,"South Carolina Public Charter
+School District",Riverwalk Academy,4701033,H,*,*,*,*
+2020,"South Carolina Public Charter
+School District",High Point Academy,4701034,H,94.6,87.7,86.3,0
+2020,"South Carolina Public Charter
+School District",Lowcountry Montessori School,4701037,H,88.2,92,94.7,-1
+2020,"South Carolina Public Charter
+School District",The Next School,4701039,H,85,76.8,57.4,76.9
+2020,"South Carolina Public Charter
+School District","Greenville Technical Charter High
+School",4701043,H,99,99,99,97.8
+2020,"South Carolina Public Charter
+School District","Brashier Middle College Charter High
+School",4701046,H,100,93.8,98,*
+2020,"South Carolina Public Charter
+School District","Greer Middle College Charter High
+School",4701047,H,100,98.9,96,*
+2020,"South Carolina Public Charter
+School District",Legacy Early College,4701048,H,97.4,95,85.7,*
+2020,"South Carolina Public Charter
+School District",Polaris Tech Charter School,4701053,H,*,*,*,*
+2020,"South Carolina Public Charter
+School District",Charleston Advancement Academy,4701055,H,4.4,1.1,*,*
+2020,"South Carolina Public Charter
+School District","South Carolina Public Charter School
+District",4701999,D,71.2,72.3,63.5,60
+2020,Charter Institute At Erskine,"Royal Live Oaks Academy Of The Arts &
+Sciences Charter School",4801004,H,85.4,87.5,67.9,81.8
+2020,Charter Institute At Erskine,Oceanside Collegiate Academy,4801005,H,98.6,99.3,95,88.2
+2020,Charter Institute At Erskine,Gray Collegiate Academy,4801007,H,99.1,99.2,86.4,88.7
+2020,Charter Institute At Erskine,Coastal Leadership Academy,4801008,H,85.7,90,81.6,96.2
+2020,Charter Institute At Erskine,Midlands Stem Institute,4801009,H,*,*,*,*
+2020,Charter Institute At Erskine,Odyssey Online Learning,4801010,H,36.2,19.1,34.5,40.4
+2020,Charter Institute At Erskine,South Carolina Virtual Charter School,4801011,H,58.9,*,*,*
+2020,Charter Institute At Erskine,Cyber Academy Of South Carolina,4801012,H,72.4,61.1,50.6,34
+2020,Charter Institute At Erskine,Calhoun Falls Public Charter School,4801013,H,78.9,84.6,84.6,87.1
+2020,Charter Institute At Erskine,Legion Collegiate Academy,4801016,H,88.5,*,*,*
+2020,Charter Institute At Erskine,Charter Institute At Erskine,4801999,D,68.1,58.9,*,*
+2020,"Sc School For The Deaf And
+The Blind",Sc School For The Blind High,5207005,H,60,20,*,*
+2020,"Sc School For The Deaf And
+The Blind",Sc School For The Deaf High,5207007,H,100,55.6,*,*
+2020,"Sc School For The Deaf And
+The Blind",Cedar Springs Academy,5207011,H,0,0,*,*
+2020,"Sc School For The Deaf And
+The Blind",Sc School For The Deaf And The Blind,5207999,D,30.8,26.1,55.6,*
+2020,Scdjj,"Willow Lane School/ Alternative
+Placement Programs",5208001,H,0,0.7,0.7,*
+2020,Scdjj,Scdjj,5208999,D,0,*,*,*
+2020,Palmetto Unified School District,Palmetto Unified,5209001,H,0,0.1,0,*
+2020,Palmetto Unified School District,Palmetto Unified School District,5209999,D,0,*,*,*
+2020,"SC Governor's School For The
+Arts And Humanities","South Carolina Governor's School For
+The Arts And Humanities",5364001,H,98.9,100,97.3,*
+2020,"SC Governor's School For The
+Arts And Humanities","SC Governor's School For The Arts And
+Humanities",5364999,D,98.9,100,97.3,*
+2020,"SC Governor's School For
+Science And Math","South Carolina Governor's School For
+Science And Mathematics",5395001,H,100,100,100,100
+2020,"SC Governor's School For
+Science And Math","SC Governor's School For Science And
+Math",5395999,D,100,100,100,100
+2020,State of South Carolina,State of South Carolina,9999999,S,82.2,81.1,81,84.6
